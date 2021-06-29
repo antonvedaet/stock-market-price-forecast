@@ -1,4 +1,4 @@
-# Stock market price forecast
+# Stock market price forecast  👍 
 The name of this project is pretty self explanatory so i won't go in details on that.
 ### LSTM architecture
 I used Long Short-term memory artificial recurrent neural network (RNN) architecture in this  project.
